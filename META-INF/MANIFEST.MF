@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: NearbyTweets
+Bundle-Activator: nearbytweets.Activator
+Bundle-SymbolicName: NearbyTweets
+Bundle-Version: 1.0.0
+Bundle-Vendor: Henry Case
+Bundle-Description: Shows nearby tweets.
+Bug-Bundle-Type: Application
+BUG-API-Version: 2.0.2
+Import-Package: org.osgi.framework
